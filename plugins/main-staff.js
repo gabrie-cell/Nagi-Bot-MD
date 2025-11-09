@@ -1,19 +1,19 @@
 let handler = async (m, { conn, command, usedPrefix }) => {
 let img = './src/catalogo.jpg'
 let staff = `ᥫ᭡ *EQUIPO DE AYUDANTES* ❀
-✰ *Dueño* » Dioneibi-rip
-✦ *Bot* » ׄ❀ׅᮢ໋۬۟   ׁ ᮫᩠𝗥ᥙ᜔᪲𝖻ֹ𝘺 𝐇֢ᩚᨵ̷̸ׁׅׅ𝗌𝗁𝗂ᮬ𝗇֟፝͡𝗈̷̸  ꫶֡ᰵ࡙🌸̵໋ׄᮬ͜✿֪
+✰ *Dueño* » perri-rip
+✦ *Bot* » ׄ❀ׅᮢ໋۬۟   ׁ ᮫᩠ERZS SCARLET  ꫶֡ᰵ࡙🌸̵໋ׄᮬ͜✿֪
 ⚘ *Versión* » ${vs}
 ❖ *Libreria* » ${libreria} ${baileys}
-> ✧ GitHub » https://github.com/Dioneibi-rip
+> ✧ GitHub » https://github.com/gabrie-ux
 
-✰ *Colaborador 1* » Nevi 
+✰ *Colaborador 1* » 
 ✦ *Rol* » Ayudante y desarrollador. 
-> ✧ Github » https://github.com/nevi-dev
+> ✧ Github » 
 
-✰ *Colaborador 2* » LegnaXjs
+✰ *Colaborador 2* » 
 ✦ *Rol* » Soporte/ayudante, editor.
-> ✧ Github » https://github.com/Legna-chan
+> ✧ Github » 
 `
 await conn.sendFile(m.chat, img, 'yuki.jpg', staff.trim(), m)
 }
