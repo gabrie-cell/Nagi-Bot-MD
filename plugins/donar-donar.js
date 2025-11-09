@@ -3,7 +3,7 @@ var handler = async (m, { conn, command }) => {
 
   let str = `*Hola ${user} (⁠◜⁠‿⁠◝⁠)⁠♡*
 
-Si estás disfrutando de nuestro Botsito y deseas apoyarnos, cualquier aporte pequeño que sea es muy bienvenido 💖
+Si estás disfrutando de nuestra Botsita y deseas apoyarnos, cualquier aporte pequeño que sea es muy bienvenido 💖
 
 ❤️‍🔥 *Puedes donar a través de PayPal:*  
 copiakevin22@gmail.com
@@ -11,10 +11,10 @@ copiakevin22@gmail.com
 🫂 Gracias por tu apoyo, Eres increíble (⁠◕‿◕)⁠ノ
 
 🔗 *Repositorio del bot:*  
-github.com/Eliasivan/Erza2-bot-MD
+github.com/gabrie-ux/Erza2-bot-MD
 
 🧑🏻‍💻 *Creador:*  
-https://wa.me/595972157130`
+https://wa.me/51941247696`
 
   conn.reply(m.chat, str, m, { mentions: [m.sender] })
 }
