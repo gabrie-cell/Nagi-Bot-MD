@@ -11,7 +11,7 @@ copiakevin22@gmail.com
 🫂 Gracias por tu apoyo, Eres increíble (⁠◕‿◕)⁠ノ
 
 🔗 *Repositorio del bot:*  
-github.com/Eliasivan/Goku-Black-Bot-MD
+github.com/Eliasivan/Erza2-bot-MD
 
 🧑🏻‍💻 *Creador:*  
 https://wa.me/595972157130`
