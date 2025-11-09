@@ -1,7 +1,7 @@
 import fetch from 'node-fetch';
 
-const newsletterJid  = '120363335626706839@newsletter';
-const newsletterName = '🌸『 Ruby-Hoshino Waifu Channel 』🌸';
+const newsletterJid  = '120363420590235387@newsletter';
+const newsletterName = '🌸『 Erza-v3 Waifu Channel 』🌸';
 
 let handler = async (m, { conn, usedPrefix, command }) => {
   try {
