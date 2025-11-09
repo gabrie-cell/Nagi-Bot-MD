@@ -2,7 +2,7 @@ let handler = async (m, { conn, command, usedPrefix }) => {
 let img = './src/catalogo.jpg'
 let staff = `ᥫ᭡ *EQUIPO DE AYUDANTES* ❀
 ✰ *Dueño* » perri-rip
-✦ *Bot* » ׄ❀ׅᮢ໋۬۟   ׁ ᮫᩠ERZS SCARLET  ꫶֡ᰵ࡙🌸̵໋ׄᮬ͜✿֪
+✦ *Bot* » ׄ❀ׅᮢ໋۬۟   ׁ ᮫᩠ERZA SCARLET  ꫶֡ᰵ࡙🌸̵໋ׄᮬ͜✿֪
 ⚘ *Versión* » ${vs}
 ❖ *Libreria* » ${libreria} ${baileys}
 > ✧ GitHub » https://github.com/gabrie-ux
