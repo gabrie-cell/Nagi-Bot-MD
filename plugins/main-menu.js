@@ -21,7 +21,13 @@ Aquí tienes la lista de comandos
 ╰─────────────────
 Crea un *Sub-Bot* con tu número utilizando *#qr* o *#code*
 
-• :･ﾟ⊹˚• \`『 Info-Bot 』\` •˚⊹:･ﾟ•
+• :･ﾟ⊹˚• \`『 info-Bot 』\` •˚⊹:･ﾟ•
+
+:･ﾟ⊹˚• \`『 NUEVOS COMANDOS 』\` •˚⊹:･ﾟ•
+
+#gacha
+
+
 
 ❍ Comandos para ver estado e información de la Bot.
 ᰔᩚ *#help • #menu*
