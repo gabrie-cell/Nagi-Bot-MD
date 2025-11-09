@@ -64,8 +64,8 @@ global.etiqueta = 'ˑ 𓈒 𐔌 Rayo ͡꒱ ۫'
 global.moneda = 'Ki'
 global.welcom1 = '❍ Edita Con El Comando setwelcome'
 global.welcom2 = '❍ Edita Con El Comando setbye'
-global.banner = 'https://qu.ax/uUPrj.jpg'
-global.avatar = 'https://qu.ax/RYjEw.jpeg'
+global.banner = 'https://files.catbox.moe/ghd2oz.png'
+global.avatar = 'https://files.catbox.moe/ghd2oz.png'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
