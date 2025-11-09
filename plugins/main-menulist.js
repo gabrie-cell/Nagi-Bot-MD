@@ -38,7 +38,7 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
     let uptime = clockString(_uptime);
     let totalreg = Object.keys(global.db.data.users).length;
 
-    const imageUrl = 'https://files.catbox.moe/yenx0h.png';
+    const imageUrl = 'https://files.catbox.moe/ghd2oz.png';
     let media = await prepareWAMessageMedia(
       { image: { url: imageUrl } },
       { upload: conn.waUploadToServer }
