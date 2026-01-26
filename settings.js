@@ -20,7 +20,7 @@ global.owner = [
   ['51941658192', 'gabriel', true],
 
 // <-- Número @lid -->
-  ['162406168797266', 'Dioneibi', true],
+  ['78667275329569', 'Dioneibi', true],
   ['162406168797266', 'Rayo-ofc', true]
 ];
 
