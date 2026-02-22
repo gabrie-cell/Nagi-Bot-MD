@@ -111,6 +111,6 @@ const handler = async (m, { conn, text, usedPrefix, command }) => {
 
 handler.help = ['pinterest']
 handler.command = ['pinterest', 'pin']
-handler.tags = ['dl']
+handler.tags = ['busquedas']
 
 export default handler
