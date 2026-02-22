@@ -35,11 +35,11 @@ global.getBuffer = async function getBuffer(url, options) {
 }
 
 const iconUrls = [
-  "https://files.catbox.moe/s8e4ev.jpg",
-  "https://files.catbox.moe/xbsqzg.jpg",
-  "https://files.catbox.moe/h8zrj2.jpg",
-  "https://files.catbox.moe/vta77r.jpg",
-  "https://files.catbox.moe/0nw8y3.jpg"
+  "https://qu.ax/AdFP4",
+  "https://qu.ax/AdFP4",
+  "https://qu.ax/AdFP4",
+  "https://qu.ax/AdFP4",
+  "https://qu.ax/AdFP4"
 ]
 const iconUrl = pickRandom(iconUrls)
 global.icono = await getBuffer(iconUrl)
