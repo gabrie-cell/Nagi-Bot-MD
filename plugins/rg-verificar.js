@@ -55,7 +55,7 @@ let handler = async function (m, { conn, text }) {
 `
 
   await conn.sendMessage(m.chat, {
-    image: { url: 'https://telegra.ph/file/0bb7e9e7c8cb4e820f1fe.jpg' },
+    image: { url: 'https://raw.githubusercontent.com/El-brayan502/img/upload/uploads/57901e-1771190430404.jpg' },
     caption: regbot
   }, { quoted: m })
 }
