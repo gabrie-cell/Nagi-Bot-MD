@@ -80,7 +80,7 @@ let handler = async (m, { conn, text, command, usedPrefix }) => {
   }
 }
 
-handler.help = ['play <título>', 'ytmp3 <título>']
+handler.help = ['play <título>', 'ytmp3 <título>', 'ytmp4']
 handler.tags = ['descargas']
 handler.command = ['play', 'ytmp3', 'ytmp4']
 handler.limit = true
