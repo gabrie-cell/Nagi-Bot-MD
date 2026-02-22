@@ -5,18 +5,18 @@ import { xpRange } from '../lib/levelling.js'
 
 let tags = {
   'NAGI': '👑「 *`MENUS NAGI`* 」👑',
-  'main': '「INFO」🍨',
-  'busquedas': '「BUSQUEDAS」🍨',
-  'fun': '「JUEGOS」🍨',
-  'serbot': '「SUB BOTS」🍨',
-  'sticker': '「STICKERS」🍨',
-  'grupo': '「GRUPOS」🍨', 
-  'descargas': '「DESCARGAS」🍨',
-  'tools': '「HERRAMIENTAS」🍨',
-  'info': '「INFORMACIÓN」🍨',
-  'owner': '「CREADOR」🍨',
-  'gacha': '「GACHA」😋',
-  'nsfw':  '「PORNO」🔥',
+  'main': '「INFO」🌱',
+  'busquedas': '「BUSQUEDAS」🌱',
+  'fun': '「JUEGOS」🌱',
+  'serbot': '「SUB BOTS」🌱',
+  'sticker': '「STICKERS」🌱',
+  'grupo': '「GRUPOS」🌱', 
+  'descargas': '「DESCARGAS」🌱',
+  'tools': '「HERRAMIENTAS」🌱',
+  'info': '「INFORMACIÓN」🌱',
+  'owner': '「CREADOR」🌱',
+  'gacha': '「GACHA」🌱',
+  'nsfw':  '「PORNO」🌱',
 }
 
 const vid = 'https://raw.githubusercontent.com/JTxs00/uploads/main/1770499142389.mp4';
@@ -24,7 +24,7 @@ const vid = 'https://raw.githubusercontent.com/JTxs00/uploads/main/1770499142389
 const defaultMenu = {
   before: `*•:•:•:•:•:•:•:•:•:•☾☼☽•:•.•:•.•:•:•:•:•:•*
 
-"「💛」 ¡Hola! *%name* %greeting, Para Ver Tu Perfil Usa *#perfil* ❒"
+"「🌱」 ¡Hola! *%name* %greeting, Para Ver Tu Perfil Usa *#perfil* ❒"
 
 ╔━━━━━ *⊱𝐈𝐍𝐅𝐎 - 𝐁𝐎𝐓⊰*
 ✦  🍫 *Cliente:* %name
@@ -39,7 +39,7 @@ const defaultMenu = {
 \t*(✰◠‿◠) 𝐂 𝐨 𝐦 𝐚 𝐧 𝐝 𝐨 𝐬*   
 `.trimStart(),
   header: '͜ ۬︵࣪᷼⏜݊᷼⏜࣪᷼✿⃘𐇽۫ꥈ࣪࣪࣪࣪࣪࣪࣪𝇈⃘۫ꥈ࣪࣪࣪࣪࣪𑁍ٜ𐇽࣪࣪࣪࣪࣪𝇈⃘۫ꥈ࣪࣪࣪࣪࣪✿݊᷼⏜࣪᷼⏜࣪᷼︵۬ ͜\n┊➳ %category \n͜ ۬︵࣪᷼⏜݊᷼⏜࣪᷼✿⃘𐇽۫ꥈ࣪࣪࣪࣪࣪࣪࣪𝇈⃘۫ꥈ࣪࣪࣪࣪࣪𑁍ٜ𐇽࣪࣪࣪࣪࣪𝇈⃘۫ꥈ࣪࣪࣪࣪࣪✿݊᷼⏜࣪᷼⏜࣪᷼︵۬ ͜',
-  body: '*┃⏤͟͟͞͞💸➤›* %cmd',
+  body: '*┃⏤͟͟͞͞🌱➤›* %cmd',
   footer: '*┗━*\n',
   after: `> ${dev}`,
 }
