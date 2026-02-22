@@ -15,6 +15,7 @@ let tags = {
   'tools': '「HERRAMIENTAS」🍨',
   'info': '「INFORMACIÓN」🍨',
   'owner': '「CREADOR」🍨',
+  'gacha': '「GACHA」😋',
 }
 
 const vid = 'https://raw.githubusercontent.com/JTxs00/uploads/main/1770499142389.mp4';
