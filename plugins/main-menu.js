@@ -11,7 +11,7 @@ let tags = {
   'serbot': '「SUB BOTS」🍨',
   'sticker': '「STICKERS」🍨',
   'grupo': '「GRUPOS」🍨', 
-  'downloader': '「DESCARGAS」🍨',
+  'descargas': '「DESCARGAS」🍨',
   'tools': '「HERRAMIENTAS」🍨',
   'info': '「INFORMACIÓN」🍨',
   'owner': '「CREADOR」🍨',
