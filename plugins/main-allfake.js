@@ -46,19 +46,19 @@ global.icono = await getBuffer(iconUrl)
 
 global.creador = 'Wa.me/51941247696'
 global.asistencia = 'Wa.me/51941247696'
-global.namechannel = '⏤͟͞ू⃪፝͜⁞⟡『 𝐓͢ᴇ𝙖፝ᴍ⃨ 𝘾𝒉꯭𝐚𝑛𝑛𝒆𝑙: erza-v3-ᑲ᥆𝗍-mძ 』࿐⟡'
-global.namechannel2 = '⟡『 𝐓𝐞𝐚𝐦 𝐂𝐡𝐚𝐧𝐧𝐞𝐥: erza-v3-ᑲ᥆𝗍-mძ 』⟡'
-global.namegrupo = '⏤͟͞ू⃪ erza-v3-ᑲ᥆𝗍-mძ ⌬⃝𓆩⚔️𓆪 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥'
-global.namecomu = '⏤͟͞ू⃪ erza-v3-ᑲ᥆𝗍-mძ ✦⃝⛩️ 𝑪𝒐𝒎𝒎𝒖𝒏𝒊𝒕𝒚'
+global.namechannel = '⏤͟͞ू⃪፝͜⁞⟡『 GABRIE-UX CHANELL 』࿐⟡'
+global.namechannel2 = '⟡『 GABRIE-UX 』⟡'
+global.namegrupo = '⏤͟͞ू⃪ Nagi ⌬⃝𓆩⚔️𓆪 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥'
+global.namecomu = '⏤͟͞ू⃪ NAGI XZ ✦⃝⛩️ 𝑪𝒐𝒎𝒎𝒖𝒏𝒊𝒕𝒚'
 global.listo = '⚔️ *Aquí tienes, guerrero*'
 
 global.canalIdM = [
-  "120363420590235387@newsletter",
-  "120363420590235387@newsletter"
+  "120363424677971125@newsletter",
+  "120363424677971125@newsletter"
 ]
 global.canalNombreM = [
-  "erza-v3-ᑲ᥆𝗍-mძ - ᥙ⍴ძᥲ𝗍ᥱs 💫",
-  "erza-v3-ᑲ᥆𝗍-mძ • ᥆𝖿іᥴіᥲᥣ"
+  "Gabrie-ux - ᥙ⍴ძᥲ𝗍ᥱs 💫",
+  "GABXZ-ux • ᥆𝖿іᥴіᥲᥣ"
 ]
 global.channelRD = await getRandomChannel()
 
