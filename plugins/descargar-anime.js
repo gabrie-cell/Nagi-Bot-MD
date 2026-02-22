@@ -142,7 +142,7 @@ handler.before = async (m, { conn }) => {
 };
 
 handler.command = ["anime", "animedl", "animes"];
-handler.tags = ['download'];
+handler.tags = ['descargas'];
 handler.help = ["animedl"];
 
 export default handler;
