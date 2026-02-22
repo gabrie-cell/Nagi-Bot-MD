@@ -6,7 +6,7 @@ import { xpRange } from '../lib/levelling.js'
 let tags = {
   'ISAGI YOICHI': '👑「 *`MENUS XISAGIbot`* 」👑',
   'main': '「INFO」🍨',
-  'buscador': '「BUSQUEDAS」🍨',
+  'busquedas': '「BUSQUEDAS」🍨',
   'fun': '「JUEGOS」🍨',
   'serbot': '「SUB BOTS」🍨',
   'sticker': '「STICKERS」🍨',
@@ -16,6 +16,7 @@ let tags = {
   'info': '「INFORMACIÓN」🍨',
   'owner': '「CREADOR」🍨',
   'gacha': '「GACHA」😋',
+  'nsfw':  '「PORNO」🔥',
 }
 
 const vid = 'https://raw.githubusercontent.com/JTxs00/uploads/main/1770499142389.mp4';
