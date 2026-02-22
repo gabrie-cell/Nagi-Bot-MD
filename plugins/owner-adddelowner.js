@@ -4,8 +4,8 @@ const protectedOwners = [
   '526671548329'
 ];
 
-const newsletterJid  = '120363335626706839@newsletter';
-const newsletterName = '⏤͟͞ू⃪፝͜⁞⟡『 Ruby-Hoshino-Channel 』࿐⟡';
+const newsletterJid  = '120363424677971125@newsletter';
+const newsletterName = '⏤͟͞ू⃪፝͜⁞⟡『 Nagibot-Channel 』࿐⟡';
 
 const handler = async (m, { conn, text, args, usedPrefix, command }) => {
   try {
