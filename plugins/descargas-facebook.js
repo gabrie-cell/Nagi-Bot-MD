@@ -42,7 +42,7 @@ let handler = async (m, { conn, usedPrefix, command, args }) => {
 
 handler.help = ["facebook"];
 handler.command = ["fb", "facebook"];
-handler.tags = ["download"];
+handler.tags = ["descargas"];
 export default handler;
 
 async function getFacebookHD(url) {
