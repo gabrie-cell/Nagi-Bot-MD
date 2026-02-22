@@ -85,7 +85,7 @@ let handler = async (m, { conn, command, args, text, usedPrefix }) => {
 
 handler.help = ['animeinfo', 'animei'];
 handler.command = ['animeinfo', 'animei'];
-handler.tags = ['descargas'];
+handler.tags = ['busquedas'];
 handler.premium = true;
 handler.register = true;
 handler.group = true;
