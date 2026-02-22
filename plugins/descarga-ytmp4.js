@@ -69,7 +69,7 @@ const handler = async (m, { conn, args, usedPrefix, command }) => {
 
 handler.command = ['ytmp4'];
 handler.help = ['ytmp4 <url>'];
-handler.tags = ['downloader'];
+handler.tags = ['descargas'];
 handler.limit = false;
 
 export default handler;
