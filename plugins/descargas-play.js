@@ -38,7 +38,7 @@ const handler = async (m, { conn, text, command }) => {
 
   try {
     if (command === "play" || command === "playaudio" || command === "ytmp3doc") {
-      const apiUrl = `https://gokublack.xyz/download/ytmp3?url=${encodeURIComponent(video.url)}`;
+      const apiUrl = `https://gawrgura-api.onrender.com/download/ytmp3?url=GABXZ${encodeURIComponent(video.url)}`;
       const res = await fetch(apiUrl).then(r => r.json());
 
       const download = res.data?.download;
