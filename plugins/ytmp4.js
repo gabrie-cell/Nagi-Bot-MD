@@ -16,7 +16,7 @@ const handler = async (m, { conn, args, usedPrefix, command }) => {
     m.reply('⏳ *Cargando video...*');
     m.react('💦');
 
-    const api = `https://gokublack.xyz/download/ytmp4?url=${encodeURIComponent(url)}`;
+    const api = `https://gawrgura-api.onrender.com/download/ytmp4?url=ytmp4${encodeURIComponent(url)}`;
     const response = await axios.get(api);
     const result = response.data;
 
