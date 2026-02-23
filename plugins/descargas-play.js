@@ -110,7 +110,7 @@ const downloadMedia = async (conn, m, url, type) => {
 
     const apiUrl = type === "mp3"
       ? `https://gawrgura-api.onrender.com/download/ytmp3?url=audios${encodeURIComponent(url)}&apikey=SHADOWKEYBOTMD`
-      : `https://api-adonix.ultraplus.click/download/ytvideo?url=${encodeURIComponent(url)}&apikey=SHADOWKEYBOTMD`
+      : `https://gawrgura-api.onrender.com/download/ytmp4?url=`
 
     const r = await fetch(apiUrl)
     const data = await r.json()
