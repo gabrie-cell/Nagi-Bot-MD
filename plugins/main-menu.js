@@ -62,7 +62,7 @@ export default {
       const owner = botSettings.owner || ''
 
       const canalId = botSettings.id || '120363400241973967@newsletter'
-      const canalName = botSettings.nameid || '（´•̥̥̥ω•̥̥̥`）♡ 𝑆ℎ𝑖𝑧𝑢𝑘𝑎-𝐴𝐼 ♡（´•̥̥̥ω•̥̥̥`）'
+      const canalName = botSettings.nameid || '（´•̥̥̥ω•̥̥̥`）♡ ᧁׁɑׁׅ֮ϐׁ᥊ׁׅzׁׁׅׅ֬֬-ɑׁׅꪱׁׁׁׅׅׅ ♡（´•̥̥̥ω•̥̥̥`）'
       const link = botSettings.link || bot.api
 
       const isOficialBot = botId === global.client.user.id.split(':')[0] + '@s.whatsapp.net'
@@ -124,7 +124,7 @@ ${[...cmds].sort().map(c => `│ ➤ #${c}`).join('\n')}
 ┃ ➤ 𝑫𝒊𝒔𝒑𝒐𝒔𝒊𝒕𝒊𝒗𝒐 ➜ $device
 ┗━━━━━━━━━━━━━━━━━━━━┛
 
-*✦ ✧ 𝑴 𝑬 𝑵 𝑼 ✧ ✦*
+*✦ ✧ ＭＥＮＵ ✧ ✦*
 
 ${dynamicMenu}
 
